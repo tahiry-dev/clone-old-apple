@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color:#eee;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+/* ---global css--- */
+
+.white-color {
+  color: #fff;
+}
+
+.parent-element {
+  position:relative;
+}
+
+.child-element {
+  position: absolute;
+}
+
+/* ---top navigation--- */
+
+nav {
+  background:linear-gradient(rgba(17, 17, 17, 0.307) 50%, rgba(141, 137, 137, 0.803) 50%);
+  border-radius:5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+nav a {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: large;
+  padding-left:40px;
+}
+
+nav form {
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav input{
+  background-color: rgba(128, 128, 128, 0.797);
+  border:1px solid rgba(128, 128, 128, 0.797);
+  border-radius: 10px;
+  padding: 3px;
+  width: 80%;
+}
+
+.fa-search {
+  bottom:2px;
+  right: 90px;
+}
+
+/* ---main section--- */
+
+.main-heading {
+  text-align: center;
+  margin: 30px 0; 
+}
+
+h1,h2,h3 {
+  font-weight: 100;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3{
+  font-size:x-large;
+}
+
+.fa-play-circle {
+  cursor: pointer;
+  color: rgb(252, 245, 245);
+  bottom: 0;
+  margin-left: 5px;
+}
+
+.main-content-box1 {
+  background:url("images/forward-thinking.png")
+}
+
+.main-content-box2 {
+  background:url("images/for\ the\ colorful.png")
+}
+
+.main-content-box3 {
+  background:url("images/HBD.png")
+}
+
+.main-content-box4 {
+  background:url("images/supplier.jpg")
+}
