@@ -26,6 +26,11 @@ body{
   position: absolute;
 }
 
+.image-width{
+  width: 364px;
+  height: 200px;
+}
+
 /* ---top navigation--- */
 
 nav {
@@ -96,17 +101,17 @@ h3{
 }
 
 .main-content-box1 {
-  background:url("images/forward-thinking.png")
+  background:url("images/forward-thinking.png");
 }
 
 .main-content-box2 {
-  background:url("images/for\ the\ colorful.png")
+  background:url("images/for\ the\ colorful.png");
 }
 
 .main-content-box3 {
-  background:url("images/HBD.png")
+  background:url("images/HBD.png");
 }
 
 .main-content-box4 {
-  background:url("images/supplier.jpg")
+  background:url("images/supplier.jpg");
 }
