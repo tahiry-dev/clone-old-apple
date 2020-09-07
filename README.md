@@ -1,4 +1,4 @@
-# Clone Apple.com
+# Clone of Apple.com
 
 > This project is the clone of an old version of apple.com. All of the page is static, no database relation or dynamic features were implemented. 
 
