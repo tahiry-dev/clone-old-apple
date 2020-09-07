@@ -1,56 +1,34 @@
-# Bubble Sort
+# Clone Apple.com
 
-> For this project, we created two **sorting algorithms** that use the [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) method. 
+> This project is the clone of an old version of apple.com. All of the page is static, no database relation or dynamic features were implemented. 
 
-This side-by-side comparative method is seen in the GIF image below.
+![screenshot](https://user-images.githubusercontent.com/47100064/92409515-900e8a00-f149-11ea-9dad-30812b0867cc.png)
 
-![image](.github/animation.gif)
+> The project is built with one gradient background for the menu navigation and five background images. One of those background images covers all the header sections. The other four are inside the main content.
 
-![screenshot](.github/bubble_sort.png)
-![screenshot](.github/bubble_sort_by2.png)
-
-> The second bubble sort method sorts an array of strings by the length of each element using the "yield" keyword and a code block.
-
-*Note: The first algorithm exits once an iteration is passed without any swaps made, signalling that the array is completely sorted. The second algorithm iterates the maximum possible number times (array.length - 1) before exiting. While both methods are suitable for the purposes of this project, it should be noted the first method is better practice in that it does not run code unnecessarily.*
 
 ## Built With
-- Ruby
-- VSCode
-- Rubocop
+
+- HTML
+- CSS
 
 ## Live Demo
 
-To quickly see our project in action, visit the [live demo](https://repl.it/@cristianCeamatu/Bubble-Sort#main.rb) on repl.it.
+Please take a look at the project on live [here](https://raw.githack.com/tahiry-dev/clone-old-apple/old-apple/index.html).
 
 ## Getting Started
 
-### Prerequisites
+1. I have used toggle pesticide to help me divide all the websites into small boxes.
 
-To get this project up and running, you must already have ruby installed on your computer.
+2. From those boxes, I created the HTML structure.
 
-### Installation
+3. I started to style the webpage from the header, the navigation bar is controlled by flexbox.
 
-**To get this project set up on your local machine, follow these simple steps:**
+4. The main content was aligned with css grid.
 
-1. Open Terminal.
+5. The footer section is divided by float.
 
-2. Navigate to your desired location to download the contents of this repository.
-
-3. Copy and paste the following code into the Terminal:
-
-    git clone https://github.com/cristianCeamatu/microverse-bubble-sort.git
-
-4. Hit enter.
-
-5. Once the repository has been cloned, navigate inside the repository and type:
-
-    ruby main.rb
-    
-    This will run the code, printing the output of our tests to the terminal. 
-
-6. To change those tests, simply open main.rb in a code editor and modify the values stored in the test_array and test_run variables.
-
-6. Enjoy sorted arrays of data for the rest of your life.
+All the alignment techniques were present within this project according to the requirements.
 
 ## Authors
 
@@ -60,25 +38,9 @@ To get this project up and running, you must already have ruby installed on your
 - Linkedin: [Tahiry RANDRIAMIARINTSOA](https://www.linkedin.com/in/tahiry-randriamiarintsoa-2276831b1/)
 
 
-👤 **Cristian Viorel Ceamatu**
-
-- Github: [@cristianCeamatu](https://github.com/cristianCeamatu)
-- Twitter: [@CeamatuV](https://twitter.com/CeamatuV)
-- Linkedin: [Ceamatu Cristian Viorel](https://www.linkedin.com/in/ceamatu-cristian-viorel-7a5469136/)
-
-
 ## 🤝 Contributing
 
 The best way you can contribute to this project is by submitting an [issue](https://github.com/cristianCeamatu/microverse-bubble-sort/issues) to help us improve it!
-
-## Show your support
-
-If you've read this far, you must like the project! Give us a ⭐️!
-
-## Acknowledgments
-
-- This Project was part of an assignment available on The Odin Project.
-- Our thanks to Microverse and all our peers and colleagues there.
 
 ## 📝 License
 
