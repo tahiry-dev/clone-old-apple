@@ -37,11 +37,6 @@ All the alignment techniques were present within this project according to the r
 - Github: [@tahiry](https://github.com/tahiry-dev)
 - Linkedin: [Tahiry RANDRIAMIARINTSOA](https://www.linkedin.com/in/tahiry-randriamiarintsoa-2276831b1/)
 
-
-## 🤝 Contributing
-
-The best way you can contribute to this project is by submitting an [issue](https://github.com/cristianCeamatu/microverse-bubble-sort/issues) to help us improve it!
-
 ## 📝 License
 
 This project has no license
