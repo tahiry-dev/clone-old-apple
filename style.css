@@ -58,30 +58,22 @@ nav {
   border-radius:5px;
   width: 90%;
   margin: 0 auto;
-}
-
-nav ul {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
   width: 90%;
-  
 }
 
-nav ul li {
-  list-style-type:none;
+nav a {
   border-right: 1px solid rgba(56, 54, 54, 0.233);
   padding: 10px 30px 10px 0;
-}
-
-nav ul li a {
   font-weight: 600;
   font-size:14px;
   padding-left: 30px;
 }
 
-ul form {
+nav form {
   padding-left: 20px;
 }
 
@@ -90,12 +82,16 @@ form input{
   border:1px solid rgba(128, 128, 128, 0.797);
   border-radius: 10px;
   padding: 3px;
-  width: 250%;
+  width: 85%;
 }
 
 .fa-search {
   bottom:2px;
-  right: 20px;
+  right: 110px;
+}
+
+.nav-wrapper {
+ padding-top:70px;
 }
 
 
@@ -210,7 +206,7 @@ h3{
 .footer-link-right button {
   border: none;
   cursor: pointer;
-
+  background-color: transparent;
 }
 
 .us-flag {
