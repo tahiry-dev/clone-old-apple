@@ -60,22 +60,29 @@ nav {
 
 nav a {
   border-right: 1px solid rgba(56, 54, 54, 0.233);
-  padding: 10px 40px 10px 0;
+  padding: 10px 0;
   font-weight: 600;
   font-size: 14px;
-  padding-left: 30px;
+  width: 25%;
+  text-align: center;
+}
+
+nav a:hover {
+  background-color: rgba(41, 40, 40, 0.349);
 }
 
 nav form {
-  margin-left: 20px;
+  margin-left: 10px;
+  width: 30%;
 }
 
 form input {
-  background-color: rgba(128, 128, 128, 0.797);
-  border: 1px solid rgba(128, 128, 128, 0.797);
+  background-color: rgba(128, 128, 128, 0.295);
+  border: 1px solid rgba(58, 56, 56, 0.363);
+  box-shadow: 0 -2px rgb(110, 107, 107);
   border-radius: 10px;
   padding: 3px;
-  width: 75%;
+  width: 90%;
 }
 
 .fa-search {
