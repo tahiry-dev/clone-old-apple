@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-Please take a look at the project on live [here](https://raw.githack.com/tahiry-dev/clone-old-apple/old-apple/index.html).
+Please take a look at the project on live [here](https://raw.githack.com/tahiry-dev/clone-old-apple/master/index.html).
 
 ## Getting Started
 
