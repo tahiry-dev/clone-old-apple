@@ -139,6 +139,11 @@ h3 a:hover {
   grid-template-columns: repeat(4, 25%);
 }
 
+.image-width {
+  width: 320px;
+  height: 200px;
+}
+
 /* ---Footer--- */
 
 .footer-link {
