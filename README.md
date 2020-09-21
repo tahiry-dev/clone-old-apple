@@ -1,6 +1,6 @@
 # Clone of Apple.com
 
-> This project is the clone of an old version of apple.com. All of the page is static, no database relation or dynamic features were implemented. 
+This project is the clone of an old version of apple.com. All of the page is static, no database relation or dynamic features were implemented. 
 
 ![screenshot](https://user-images.githubusercontent.com/47100064/92409515-900e8a00-f149-11ea-9dad-30812b0867cc.png)
 
